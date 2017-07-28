@@ -12,3 +12,5 @@ themes/classic/views/
 /runtime/
 /makeup/
 /.idea/*
+/composer.lock
+/config/db.php
