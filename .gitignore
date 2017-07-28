@@ -4,3 +4,11 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+/commands/
+/tests/
+/uploads/
+/vendor/
+/mail/
+/runtime/
+/makeup/
+/.idea/*
